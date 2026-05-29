@@ -104,7 +104,7 @@
           <span class="footer-divider">|</span>
           <span class="footer-link">用户协议</span>
         </div>
-        <p class="copyright">© 2024 校园二手交易平台 版权所有</p>
+        <p class="copyright">© 2026 校园二手交易平台 版权所有</p>
       </div>
     </div>
   </div>
